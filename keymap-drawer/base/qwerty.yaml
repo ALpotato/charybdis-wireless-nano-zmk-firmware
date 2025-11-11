@@ -211,11 +211,11 @@ layers:
   - ''
   - ''
   Xtra:
-  - ZMK Studio
   - SHRUG
   - LGTM
   - GIT COMMIT
   - ''
+  - ZMK Studio
   - BRIGHT ▲
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
